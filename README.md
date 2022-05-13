@@ -36,3 +36,6 @@ Este layout faz parte de uma das telas do Portal GD. Pode usar a imagem abaixo c
             * Tamanho da fonte: 12px;
     * Rodapé do card:
         * Texto em destaque: Negrito.
+
+# Informações Extras:
+* [Site do font-awesome](https://fontawesome.com/icons/)
