@@ -26,6 +26,7 @@ Este layout faz parte de uma das telas do Portal GD. Pode usar a imagem abaixo c
         * Inferior: 15px;
     * Cabeçalho:
         * Tamanho da fonte: 16px;
+        * Cor do icone: #82008F;
     * Corpo do card:
         * Espaçamento Superior e inferior: 20px;
         * Texto principal:
